@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_transactions">Транзакции</string>
+    <string name="nav_statistics">Статистика</string>
+    <string name="nav_budgets">Бюджеты</string>
+    <string name="nav_settings">Настройки</string>
+    
+    <!-- Main Screen -->
+    <string name="balance">Баланс</string>
+    <string name="income">Доходы</string>
+    <string name="expenses">Расходы</string>
+    <string name="add_income">Добавить доход</string>
+    <string name="add_expense">Добавить расход</string>
+    <string name="recent_transactions">Последние транзакции</string>
+    <string name="view_all">Посмотреть все</string>
+    
+    <!-- Transaction Types -->
+    <string name="transaction_income">Доход</string>
+    <string name="transaction_expense">Расход</string>
+    
+    <!-- Categories -->
+    <string name="category_food">Еда</string>
+    <string name="category_transport">Транспорт</string>
+    <string name="category_entertainment">Развлечения</string>
+    <string name="category_shopping">Покупки</string>
+    <string name="category_health">Здоровье</string>
+    <string name="category_education">Образование</string>
+    <string name="category_bills">Счета</string>
+    <string name="category_salary">Зарплата</string>
+    <string name="category_freelance">Фриланс</string>
+    <string name="category_investment">Инвестиции</string>
+    <string name="category_other">Другое</string>
+    
+    <!-- Add Transaction -->
+    <string name="amount">Сумма</string>
+    <string name="category">Категория</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="comment">Комментарий</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    
+    <!-- Budgets -->
+    <string name="budget_limit">Лимит бюджета</string>
+    <string name="budget_spent">Потрачено</string>
+    <string name="budget_remaining">Осталось</string>
+    <string name="budget_warning">Предупреждение о лимите</string>
+    
+    <!-- Statistics -->
+    <string name="period_week">Неделя</string>
+    <string name="period_month">Месяц</string>
+    <string name="period_year">Год</string>
+    <string name="export_data">Экспорт данных</string>
+    
+    <!-- Settings -->
+    <string name="default_currency">Валюта по умолчанию</string>
+    <string name="security">Безопасность</string>
+    <string name="notifications">Уведомления</string>
+    <string name="theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme_system">Системная</string>
+    <string name="backup_sync">Резервное копирование</string>
+    <string name="about">О приложении</string>
+    
+    <!-- Authentication -->
+    <string name="sign_in">Войти</string>
+    <string name="sign_out">Выйти</string>
+    <string name="sign_in_google">Войти через Google</string>
+    <string name="local_mode">Локальный режим</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    
+    <!-- Messages -->
+    <string name="transaction_saved">Транзакция сохранена</string>
+    <string name="transaction_deleted">Транзакция удалена</string>
+    <string name="budget_limit_reached">Достигнут лимит бюджета</string>
+    <string name="data_exported">Данные экспортированы</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="no_internet">Нет подключения к интернету</string>
+    
+    <!-- Currency -->
+    <string name="currency_rub">Рубль (RUB)</string>
+    <string name="currency_usd">Доллар (USD)</string>
+    <string name="currency_eur">Евро (EUR)</string>
+    
+</resources> 

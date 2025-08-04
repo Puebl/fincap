@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF9800</color>
+    <color name="accent_dark">#F57C00</color>
+    
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+    <color name="warning_orange">#FF9800</color>
+    
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+    
+    <color name="text_primary_light">#212121</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+    
+    <color name="divider_light">#BDBDBD</color>
+    <color name="divider_dark">#424242</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Category Colors -->
+    <color name="category_food">#FF5722</color>
+    <color name="category_transport">#2196F3</color>
+    <color name="category_entertainment">#9C27B0</color>
+    <color name="category_shopping">#FF9800</color>
+    <color name="category_health">#4CAF50</color>
+    <color name="category_education">#795548</color>
+    <color name="category_bills">#607D8B</color>
+    <color name="category_salary">#4CAF50</color>
+    <color name="category_freelance">#FFC107</color>
+    <color name="category_investment">#00BCD4</color>
+    <color name="category_other">#9E9E9E</color>
+</resources> 
